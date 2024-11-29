@@ -5,6 +5,11 @@
 
 https://github.com/liamcain/obsidian-calendar-plugin
 
+也支持手机端使用，通过右滑可以调出日历小组件！
+![image](https://github.com/user-attachments/assets/a5cd7248-ebbf-4880-a17c-ceb757729c7f)
+
+
+
 使用
 在设置菜单中启用插件后，您应该会看到日历视图出现在右侧边栏中。
 
