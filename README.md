@@ -1,5 +1,7 @@
 # obsidian-calendar-cn-plugin
 我把Obsidian 日历插件汉化了，以下是原英文版的介绍。
+![image](https://github.com/user-attachments/assets/c1cee111-9139-466e-8298-71909656cb9e)
+
 
 https://github.com/liamcain/obsidian-calendar-plugin
 
