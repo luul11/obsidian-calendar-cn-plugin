@@ -9113,8 +9113,8 @@ function create_fragment$a(ctx) {
 		c() {
 			div1 = element$1("div");
 
-			div1.innerHTML = `<div class="footer-description svelte-1kza10w">made by Liam Cain</div> 
-  <a href="https://www.buymeacoffee.com/liamcain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100"/></a>`;
+			div1.innerHTML = `
+  <div class="footer-description svelte-1kza10w">由Liam Cain制作，由<a href="https://github.com/luul11/obsidian-calendar-cn-plugin" target="_blank">YOUNG LUKE（luul11）</a>汉化</div>`;
 
 			attr$1(div1, "class", "footer svelte-1kza10w");
 		},
